@@ -9,5 +9,4 @@ public class JUnit5Application {
     public static void main(String[] args) {
         SpringApplication.run(JUnit5Application.class, args);
     }
-
 }
