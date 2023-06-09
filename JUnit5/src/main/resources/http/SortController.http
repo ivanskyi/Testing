@@ -1,0 +1,4 @@
+POST http://localhost:8080/sort/bubble
+Content-Type: application/json
+
+["value1", "value2", "value3"]
